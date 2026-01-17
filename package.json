@@ -4,6 +4,14 @@
   "description": "A basic Node.js logger with simple configuration",
   "type": "module",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisBas/basic-node-logger.git"
+  },
+  "homepage": "https://github.com/chrisBas/basic-node-logger#readme",
+  "bugs": {
+    "url": "https://github.com/chrisBas/basic-node-logger/issues"
+  },
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
