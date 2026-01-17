@@ -1,6 +1,6 @@
 {
   "name": "basic-node-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A basic Node.js logger with simple configuration",
   "type": "module",
   "license": "MIT",
